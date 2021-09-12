@@ -1,4 +1,4 @@
-# network_simple_test_loop
+# Network DNS simple test
 This batch script will run network test commands in a loop
 ![](https://github.com/orensrauch/network_simple_test_loop/blob/main/Animation.gif?raw=true)
 ### How to run this test script locally
